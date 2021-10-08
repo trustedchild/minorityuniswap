@@ -1,7 +1,7 @@
 {
   "name": "@uniswap/interface",
   "description": "Uniswap Interface",
-  "homepage": ".",
+  "homepage": "https://trustedchild.github.io/minorityswap.git",
   "main": "dist/interface.js",
   "module": "dist/interface.esm.js",
   "types": "dist/index.d.ts",
@@ -171,5 +171,7 @@
     ]
   },
   "license": "GPL-3.0-or-later",
-  "dependencies": {}
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
 }
